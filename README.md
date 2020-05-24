@@ -26,6 +26,7 @@ A curated list of decentralized finance (DeFi) product management resources
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/)
+2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/)
 
 ## Communities
 1. [DeFi Product Management](https://t.me/defiproduct)
