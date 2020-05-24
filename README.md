@@ -31,4 +31,5 @@ A curated list of decentralized finance (DeFi) product management resources
 ## Communities
 1. [DeFi Product Management](https://t.me/defiproduct)
 2. [SF crypto product management group](https://www.eventbrite.com/e/sf-crypto-product-manager-group-good-product-management-in-turbulent-times-defi-with-swapnet-tickets-99299754238)
-3. [Blockchain product management gathering](https://www.eventbrite.com/e/blockchain-product-management-gathering-tickets-106019432978)
+3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity)
+
