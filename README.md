@@ -5,6 +5,7 @@ A curated list of decentralized finance (DeFi) product management resources
 1. [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
 2. [Do Protocols need Product Management?](https://medium.com/swlh/do-protocols-need-product-management-6c597d65faad)
 3. [The New World of Product Management: When the User is the Customer](https://medium.com/@rika.sukenik6/the-new-world-of-product-management-when-the-user-is-the-customer-c74beba7dfaf)
+4. [Applications: today & 2025](https://a16z.com/crypto-startup-school/)
 
 ## User Research 
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
