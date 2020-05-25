@@ -30,10 +30,11 @@ A curated list of decentralized finance (DeFi) product management resources
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
 
 ## Analytics and Metrics
-1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and shate it
+1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
 2. [Our Network](https://ournetwork.substack.com), the newsletter about on-chain analytics
-3. [The Graph](https://thegraph.com/) allows you to easily get any public data from blockchain
+3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
+5. [DeFi Market Cap](https://defimarketcap.io/)
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
@@ -42,22 +43,27 @@ A curated list of decentralized finance (DeFi) product management resources
 4. [How to value crypto capital assets](https://bankless.substack.com/p/how-to-value-crypto-capital-assets) by Lucas Campbell
 
 ## Courses
-1. [Crypto startup school](https://a16z.com/crypto-startup-school/) is the-first blockchain crypto startup school that learns you how to build crypto companies (YC startup school for crypto)
+1. [Crypto startup school](https://a16z.com/crypto-startup-school/) is the-first blockchain startup school that learns you how to build crypto companies (like YC startup school, but for crypto)
+
+## A list of DeFi project lists for you to get inspired
+1. [DeFi Prime](https://defiprime.com/#defi_projects)
+2. [DeFi Pulse](https://defipulse.com/defi-list)
+3. [Everest](https://everest.link/category/0x95ea932f8950f11893e7ad77cc43a5c5e05296f2)
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
-2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/) is awesome newsletter that lists all product jobs in blockchain market
+2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/) is an awesome newsletter that lists all product jobs in blockchain market
 
 ## Communities
-1. [DeFi Product Management](https://t.me/defiproduct)is a telegram group dedicadet to UX, memes, analytics, and growth of DeFi products
+1. [DeFi Product Management](https://t.me/defiproduct)is a telegram group dedicated to UX, memes, analytics, and growth of DeFi products
 2. [SF crypto product management group](https://www.eventbrite.com/e/sf-crypto-product-manager-group-good-product-management-in-turbulent-times-defi-with-swapnet-tickets-99299754238) is a community of PMs mostly for SF area
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity) is a blockchain PM community
 
 ## Contribute
-Contributions are highly welcome! PR only the resources related to product management in DeFi 
+Contributions are highly welcome! PR only the resources related to product management in DeFi or just text me to add your resocurce (https://twitter.com/0x_vadym)
 
 ### Find a problem?
-You can pull request or just leave me an issue, or just email me (vadym.n@atomica.org)
+You can pull request or just leave me an issue, or just text me (https://twitter.com/0x_vadym)
 
 ### Do you want to discuss analytics, memes, UX, and growth?
 Join the [community](https://t.me/defiPM)
