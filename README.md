@@ -19,6 +19,7 @@ A curated list of decentralized finance (DeFi) product management resources
 2. [Do Protocols need Product Management?](https://medium.com/swlh/do-protocols-need-product-management-6c597d65faad) by Kristen Stone
 3. [The New World of Product Management: When the User is the Customer](https://medium.com/@rika.sukenik6/the-new-world-of-product-management-when-the-user-is-the-customer-c74beba7dfaf) by Rika Sukenik
 4. [Applications: today & 2025](https://youtu.be/3jPYk7ucrjo) by Balaji Srinivasan
+5. [Setting Up and Scaling a Crypto Company](https://youtu.be/VL5V16HAjYA) by Brian Armstrong
 
 ## User Experience and User Research
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1) by Gossamer
@@ -34,13 +35,18 @@ A curated list of decentralized finance (DeFi) product management resources
 2. [Our Network](https://ournetwork.substack.com), the newsletter about on-chain analytics
 3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
-5. [DeFi Market Cap](https://defimarketcap.io/)
+5. [DeFi Market Cap](https://defimarketcap.io/) 
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
 2. [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825) by Aaron Hay
 3. [How Much Does A Crypto-Vote Cost?](https://www.placeholder.vc/blog/2020/1/7/how-much-does-a-crypto-vote-cost) by Joel Monegro
 4. [How to value crypto capital assets](https://bankless.substack.com/p/how-to-value-crypto-capital-assets) by Lucas Campbell
+5. [Crypto’s Business Model is Familiar. What Isn’t is Who Benefits](https://a16z.com/2020/04/08/crypto-network-effects/) by Jesse Walden
+5. [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) by 
+Trent McConaghy
+6. [On Value Capture at Layers 1 and 2](https://multicoin.capital/2019/03/14/on-value-capture-at-layers-1-and-2/) by Kyle Samani
+
 
 ## Courses
 1. [Crypto startup school](https://a16z.com/crypto-startup-school/) is the-first blockchain startup school that learns you how to build crypto companies (like YC startup school, but for crypto)
@@ -60,10 +66,7 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity) is a blockchain PM community
 
 ## Contribute
-Contributions are highly welcome! PR only the resources related to product management in DeFi or just text me to add your resocurce (https://twitter.com/0x_vadym)
-
-### Find a problem?
-You can pull request or just leave me an issue, or just text me (https://twitter.com/0x_vadym)
+Contributions are highly welcome! You can pull request or just text me (https://twitter.com/0x_vadym)
 
 ### Do you want to discuss analytics, memes, UX, and growth?
 Join the [community](https://t.me/defiPM)
