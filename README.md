@@ -51,7 +51,10 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity)
 
 ## Contribute
-Contributions are highly welcome! PR only the resources related to DeFi 
+Contributions are highly welcome! PR only the resources related to product management in DeFi 
 
 ### Find a problem?
 You can pull request or just leave me an issue, or just email me (vadym.n@atomica.org)
+
+### Do you want to discuss analytics, memesm UX, and growth?
+Join the [community](https://t.me/defiPM)
