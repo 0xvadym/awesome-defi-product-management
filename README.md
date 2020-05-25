@@ -1,6 +1,9 @@
 # Awesome DeFi Product Management
 A curated list of decentralized finance (DeFi) product management resources 
 
+![High-level architecture](architecture.png)
+[Image Source](https://drive.google.com/open?id=1TqEDREwCezrrCfLdtTWyVcZS0qMmhN62)
+
 ## Table of Contents
 - [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
 - [User Experience and User Research](#User-Experience-and-User-Research)
