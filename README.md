@@ -11,7 +11,6 @@ A curated list of decentralized finance (DeFi) product management resources
 - [Courses](#Courses)
 - [Getting a job](#Getting-a-job)
 - [Communities](#Communities)
-- [Additional Resources](#Additional-Resources)
 - [Contribute](#Contribute)
 
 ## Product Management in Decentralized Finance / Open Finance
