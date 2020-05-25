@@ -3,16 +3,12 @@ A curated list of decentralized finance (DeFi) product management resources
 
 ## Table of Contents
 - [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
-- [User Research](#User Research)
-- [bZx](#bZx)
-- [Compound](#Compound)
-- [DDEX](#DDEX)
-- [dYdX](#dYdX)
-- [MakerDAO](#MakerDAO)
-- [Nexus Mutual](#Nexus-Mutual)
-- [Nuo](#Nuo)
-- [Synthetix](#Synthetix)
-- [Token Sets](#Token-Sets)
+- [User Experience](#User-Experience)
+- [Analytics and Metrics](#Analytics-and-Metrics)
+- [Business models and pricing](#Business-models-and-pricing)
+- [Courses](#Courses)
+- [Getting a job](#Getting-a-job)
+- [Communities](#Communities)
 - [Additional Resources](#Additional-Resources)
 - [Contribute](#Contribute)
 
@@ -22,7 +18,7 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [The New World of Product Management: When the User is the Customer](https://medium.com/@rika.sukenik6/the-new-world-of-product-management-when-the-user-is-the-customer-c74beba7dfaf)
 4. [Applications: today & 2025](https://a16z.com/crypto-startup-school/)
 
-## User Research 
+## User Experience 
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
 2. [DeFi User Research Report by Consensys Codefi](https://pages.consensys.net/codefi-def-user-research-report)
 3. [4 Key Findings in CoinGecko's Decentralized Finance (DeFi) Survey](https://www.coingecko.com/buzz/defi-survey)
