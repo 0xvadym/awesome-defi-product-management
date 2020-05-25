@@ -61,7 +61,7 @@ Trent McConaghy
 2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/) is an awesome newsletter that lists all product jobs in blockchain market
 
 ## Communities
-1. [DeFi Product Management](https://t.me/defiproduct)is a telegram group dedicated to UX, memes, analytics, and growth of DeFi products
+1. [DeFi Product Management](https://t.me/defiproduct) is a telegram group dedicated to UX, memes, analytics, and growth of DeFi products
 2. [SF crypto product management group](https://www.eventbrite.com/e/sf-crypto-product-manager-group-good-product-management-in-turbulent-times-defi-with-swapnet-tickets-99299754238) is a community of PMs mostly for SF area
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity) is a blockchain PM community
 
