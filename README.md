@@ -2,7 +2,7 @@
 A curated list of decentralized finance (DeFi) product management resources 
 
 ## Table of Contents
-- [Product Management in Decentralized Finance / Open Finance](#Product Management in Decentralized Finance / Open Finance)
+- [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
 - [User Research](#User Research)
 - [bZx](#bZx)
 - [Compound](#Compound)
