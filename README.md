@@ -1,7 +1,7 @@
 # Awesome DeFi Product Management
 A curated list of decentralized finance (DeFi) product management resources 
 
-![defi_cust_dev](defi_cust_dev.jpg)
+![DeFi Cust Dev](deficustdev.jpg)
 
 ## Table of Contents
 - [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
