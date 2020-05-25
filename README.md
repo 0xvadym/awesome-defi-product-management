@@ -46,7 +46,7 @@ A curated list of decentralized finance (DeFi) product management resources
 5. [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) by 
 Trent McConaghy
 6. [On Value Capture at Layers 1 and 2](https://multicoin.capital/2019/03/14/on-value-capture-at-layers-1-and-2/) by Kyle Samani
-
+7. [Diving into network lifecycle investing and more](https://blog.coinfund.io/diving-into-network-lifecycle-investing-and-more-bd44a1a94e1aP) by Jake Brukhman
 
 ## Courses
 1. [Crypto startup school](https://a16z.com/crypto-startup-school/) is the-first blockchain startup school that learns you how to build crypto companies (like YC startup school, but for crypto)
