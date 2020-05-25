@@ -2,7 +2,6 @@
 A curated list of decentralized finance (DeFi) product management resources 
 
 ![photo_2020-05-25_12-04-04](photo_2020-05-25_12-04-04.jpg)
-[Image Source](https://drive.google.com/open?id=1TqEDREwCezrrCfLdtTWyVcZS0qMmhN62)
 
 ## Table of Contents
 - [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
