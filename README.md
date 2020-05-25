@@ -25,7 +25,7 @@ A curated list of decentralized finance (DeFi) product management resources
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1) by Gossamer
 2. [DeFi User Research Report by Consensys Codefi](https://pages.consensys.net/codefi-def-user-research-report) by Consensys Codefi
 3. [4 Key Findings in CoinGecko's Decentralized Finance (DeFi) Survey](https://www.coingecko.com/buzz/defi-survey) by Coingecko
-4. [DeFi User Survey — The results & insights](https://medium.com/dexdotblue/defi-usage-survey-the-results-insights-b3481275019b) by Argent, Kleros, Kyber Network, Maker, Ren, Synthetix, and Uniswap
+4. [DeFi User Survey — The results & insights](https://medium.com/dexdotblue/defi-usage-survey-the-results-insights-b3481275019b) by dex.blue, Argent, Kleros, Kyber Network, Maker, Ren, Synthetix, and Uniswap
 5. [State of Adoption](https://www.stateofcrypto.report/) by IDEO CoLab Ventures, Decentral Park Capital, and other contributors.
 6. [DeFi Usage Numbers](https://thecontrol.co/defi-usage-numbers-7e5e2cd5ab2e) by Richard Chen
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
