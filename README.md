@@ -1,6 +1,8 @@
 # Awesome DeFi Product Management
 A curated list of decentralized finance (DeFi) product management resources 
 
+<h2 id="1"> Content</h2>
+
 ## Product Management in Decentralized Finance / Open Finance
 1. [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
 2. [Do Protocols need Product Management?](https://medium.com/swlh/do-protocols-need-product-management-6c597d65faad)
