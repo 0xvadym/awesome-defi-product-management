@@ -1,7 +1,20 @@
 # Awesome DeFi Product Management
 A curated list of decentralized finance (DeFi) product management resources 
 
-<h2 id="1"> Content</h2>
+## Table of Contents
+- [Product Management in Decentralized Finance / Open Finance](#Product Management in Decentralized Finance / Open Finance)
+- [User Research](#User Research)
+- [bZx](#bZx)
+- [Compound](#Compound)
+- [DDEX](#DDEX)
+- [dYdX](#dYdX)
+- [MakerDAO](#MakerDAO)
+- [Nexus Mutual](#Nexus-Mutual)
+- [Nuo](#Nuo)
+- [Synthetix](#Synthetix)
+- [Token Sets](#Token-Sets)
+- [Additional Resources](#Additional-Resources)
+- [Contribute](#Contribute)
 
 ## Product Management in Decentralized Finance / Open Finance
 1. [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
