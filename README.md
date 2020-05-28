@@ -72,7 +72,7 @@ Well, good news, there are few ways how you can start your idea easily
 
 One of the best way to find a team, make friends, build an MVP, and get early feedback
 
-[ETHGlobal](https://www.ethglobal.co/#) is the main event series of hackathons in Ethereum ecosystem being held all around the globe
+- [ETHGlobal](https://www.ethglobal.co/#) is the main event series of hackathons in Ethereum ecosystem being held all around the globe
 
 ### 2. Venture DAO
 
