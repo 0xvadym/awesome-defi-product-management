@@ -60,7 +60,7 @@ Trent McConaghy
 ## What to do if I have an idea, but no money and connections with VCs
 Following the [Lean Startup](http://theleanstartup.com/principles) methodology, you don't have to have money to validate your hypothesis, but even though to build an MVP it wouldn't be superfluous to have some intital capital.
 
-**BUT what if:
+**BUT what if:**
 
 - you don't know how to fundraise, you don't have money to start a project, and you don't have any connections with VCs
 - you want to validate your idea directly through the market and not waiting for 1-2 years by building something, more likely, useless
@@ -76,7 +76,7 @@ One of the best way to find a team, make friends, build an MVP, and get early fe
 
 ### 2. Venture DAO
 
-New type of crowdfunding, community-driven VC 
+New type of crowdfunding, community-driven VCs
 
 - [MetaCartel Ventures](https://metacartel.xyz/) is a community run investment DAO, looking to invest in Ethereum DApps. They have top mentors on the DeFi market.
 
