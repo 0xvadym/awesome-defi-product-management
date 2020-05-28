@@ -94,6 +94,7 @@ New type of crowdfunding, community-driven VCs
 - [Ethereum Foundation](https://ethereum.org/foundation/) is a non-profit organization dedicated to supporting Ethereum and related technologies.
 
 - [ConsenSys Grants](https://consensys.net/grants/) are also focused on Ethereum ecosystem accelerating 
+- Project specific grants: [MakerDAO](https://community-development.makerdao.com/grants), [Aragon](https://github.com/aragon/nest), [Aave](https://medium.com/aave/aave-ecosystem-grants-88260ede1485)
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
