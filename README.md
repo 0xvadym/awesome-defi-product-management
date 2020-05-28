@@ -9,6 +9,7 @@ A curated list of decentralized finance (DeFi) product management resources
 - [Analytics and Metrics](#Analytics-and-Metrics)
 - [Business models and pricing](#Business-models-and-pricing)
 - [Courses](#Courses)
+- [What to do if I have an idea, but no money and connections with VCs](#What-to-do-if-I-have-an-idea,-but-no-money-and-connections-with-VCs)
 - [Getting a job](#Getting-a-job)
 - [Communities](#Communities)
 - [Contribute](#Contribute)
@@ -54,6 +55,8 @@ Trent McConaghy
 1. [DeFi Prime](https://defiprime.com/#defi_projects)
 2. [DeFi Pulse](https://defipulse.com/defi-list)
 3. [Everest](https://everest.link/category/0x95ea932f8950f11893e7ad77cc43a5c5e05296f2)
+
+## What to do if I have an idea, but no money and connections with VCs
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
