@@ -58,6 +58,42 @@ Trent McConaghy
 3. [Everest](https://everest.link/category/0x95ea932f8950f11893e7ad77cc43a5c5e05296f2)
 
 ## What to do if I have an idea, but no money and connections with VCs
+Following the [Lean Startup](http://theleanstartup.com/principles) methodology, you don't have to have money to validate your hypothesis, but even though to build an MVP it wouldn't be superfluous to have some intital capital.
+
+BUT what if:
+
+- you don't know how to fundraise, you don't have money to start a project, and you don't have any connections with VCs
+- you want to validate your idea directly through the market and not waiting for 1-2 years by building something, more likely, useless
+- you don't want polishing your pitch deck at the early stage
+
+Well, good news, there are few ways how you can start your idea easily
+
+### 1. Hackathons
+
+One of the best way to find a team, make friends, build an MVP, and get early feedback
+
+[ETHGlobal](https://www.ethglobal.co/#) is the main event series of hackathons in Ethereum ecosystem being held all around the globe
+
+### 2. Venture DAO
+
+New type of crowdfunding, community-driven VC 
+
+- [MetaCartel Ventures](https://metacartel.xyz/) is a community run investment DAO, looking to invest in Ethereum DApps. They have top mentors on the DeFi market.
+
+- [The LAO](https://www.thelao.io/) is for-profit, legal liability autonomous organization
+
+
+### 3. Grants
+
+- [Gitcoin](https://gitcoin.co/grants/) provides a novel  way of funding open source projects for public benefit with Quadratic Funding matching contributions from Gitcoin's fund sponsored by donors in the Ethereum ecosystem and community
+
+- [Moloch DAO](https://www.molochdao.com/) is a community funding initiative focused on Ethereum ecosystem development
+
+- [MetaCartel](https://www.metacartel.org/) is helping early teams get to the next level with grant funding and operational support
+
+- [Ethereum Foundation](https://ethereum.org/foundation/) is a non-profit organization dedicated to supporting Ethereum and related technologies.
+
+- [ConsenSys Grants](https://consensys.net/grants/) are also focused on Ethereum ecosystem accelerating 
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
