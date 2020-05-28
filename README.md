@@ -85,7 +85,7 @@ New type of crowdfunding, community-driven VCs
 
 ### 3. Grants
 
-- [Gitcoin](https://gitcoin.co/grants/) provides a novel  way of funding open source projects for public benefit with Quadratic Funding matching contributions from Gitcoin's fund sponsored by donors in the Ethereum ecosystem and community
+- [Gitcoin](https://gitcoin.co/grants/) provides a novel  way of funding open source projects for public benefit with [Quadratic Funding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656) matching contributions from Gitcoin's fund sponsored by donors in the Ethereum ecosystem and community
 
 - [Moloch DAO](https://www.molochdao.com/) is a community funding initiative focused on Ethereum ecosystem development
 
