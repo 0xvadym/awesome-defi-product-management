@@ -64,9 +64,9 @@ Following the [Lean Startup](http://theleanstartup.com/principles) methodology, 
 
 - you don't know how to fundraise, you don't have money to start a project, and you don't have any connections with VCs
 - you want to validate your idea directly through the market and not waiting for 1-2 years by building something, more likely, useless
-- you don't want polishing your pitch deck at the early stage
+- you don't want polishing your pitch deck at the early stage, but focus on your product
 
-Well, good news, there are few ways how you can start your idea easily
+Well, good news, there are few ways how you can start realizing your idea easily
 
 ### 1. Hackathons
 
