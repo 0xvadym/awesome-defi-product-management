@@ -33,7 +33,7 @@ A curated list of decentralized finance (DeFi) product management resources
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
 
 ## Growth
-1. [Lean DeFi - Planting Seeds for Organic Growth by Stani Kulechov](https://www.youtube.com/watch?v=K844-t3QYc0&feature=emb_title)
+1. [Lean DeFi - Planting Seeds for Organic Growth](https://www.youtube.com/watch?v=K844-t3QYc0&feature=emb_title) by Stani Kulechov
 
 ## Analytics and Metrics
 1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
