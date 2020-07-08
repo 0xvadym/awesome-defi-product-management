@@ -6,6 +6,7 @@ A curated list of decentralized finance (DeFi) product management resources
 ## Table of Contents
 - [Product Management in Decentralized Finance / Open Finance](#Product-Management-in-Decentralized-Finance--Open-Finance)
 - [User Experience and User Research](#User-Experience-and-User-Research)
+- [Growth](#Growth)
 - [Analytics and Metrics](#Analytics-and-Metrics)
 - [Business models and pricing](#Business-models-and-pricing)
 - [Courses](#Courses)
@@ -30,6 +31,9 @@ A curated list of decentralized finance (DeFi) product management resources
 5. [State of Adoption](https://www.stateofcrypto.report/) by IDEO CoLab Ventures, Decentral Park Capital, and other contributors.
 6. [DeFi Usage Numbers](https://thecontrol.co/defi-usage-numbers-7e5e2cd5ab2e) by Richard Chen
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
+
+## Growth
+1. [Lean DeFi - Planting Seeds for Organic Growth by Stani Kulechov](https://www.youtube.com/watch?v=K844-t3QYc0&feature=emb_title)
 
 ## Analytics and Metrics
 1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
