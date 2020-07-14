@@ -100,7 +100,10 @@ New type of crowdfunding, community-driven VCs
 
 - [Ethereum Foundation](https://ethereum.org/foundation/) is a non-profit organization dedicated to supporting Ethereum and related technologies.
 
+- [Web3 Foundation](https://web3.foundation/grants/) is a non-profit organization that funds software development and research in the field of decentralized software protocols. It is the foundation behind the Polkadot ecosystem.
+
 - [ConsenSys Grants](https://consensys.net/grants/) are also focused on Ethereum ecosystem accelerating 
+
 - Project specific grants: [MakerDAO](https://community-development.makerdao.com/grants), [Aragon](https://github.com/aragon/nest), [Aave](https://medium.com/aave/aave-ecosystem-grants-88260ede1485)
 
 ## Getting a job
