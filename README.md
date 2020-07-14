@@ -33,7 +33,7 @@ A curated list of decentralized finance (DeFi) product management resources
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
 
 ## Growth
-1. [Lean DeFi - Planting Seeds for Organic Growth](https://www.youtube.com/watch?v=K844-t3QYc0&feature=emb_title) by Stani Kulechov
+1. [Lean DeFi - Planting Seeds for Organic Growth](https://www.youtube.com/watch?v=eNZitmMoOQw) by Stani Kulechov
 2. [Trader Insights: Yield Farming](https://integral.dydx.exchange/yield-farming/) by dYdX Integral
 3. [Inside Yield Farming: A Beginner's Guide to the Latest Craze in DeFi](https://defiprime.com/defi-yield-farming) by William M. Peaster at Defiprime
 4. [What is Yield Farming?](https://blog.zerion.io/what-is-yield-farming-d28bbdd2c724) by Cooper Turley at Zerion blog
