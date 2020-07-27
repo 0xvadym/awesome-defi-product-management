@@ -111,7 +111,7 @@ New type of crowdfunding, community-driven VCs
 2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/) is an awesome newsletter that lists all product jobs in blockchain market
 
 ## Communities
-1. [DeFi Product Management](https://t.me/defiproduct) is a telegram group dedicated to UX, memes, analytics, and growth of DeFi products
+1. [DeFi Product Management](https://t.me/defiPM) is a telegram group dedicated to UX, memes, analytics, and growth of DeFi products
 2. [Crypto PM group](https://discord.com/invite/sv7YYW8) is building a community for Crypto PMs and serves as a Product hub for builders
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity)
 
