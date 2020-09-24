@@ -22,6 +22,9 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [The New World of Product Management: When the User is the Customer](https://medium.com/@rika.sukenik6/the-new-world-of-product-management-when-the-user-is-the-customer-c74beba7dfaf) by Rika Sukenik
 4. [Applications: today & 2025](https://youtu.be/3jPYk7ucrjo) by Balaji Srinivasan
 5. [Setting Up and Scaling a Crypto Company](https://youtu.be/VL5V16HAjYA) by Brian Armstrong
+6. [Fork Defense Strategies in DeFi](https://bankless.substack.com/p/fork-defense-strategies-in-defi) by Ian Lee
+7. [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e) by Trent McConaghy
+8. [YFI A Tale of Fair Launch, Governance and Value](https://insights.deribit.com/market-research/yfi-a-tale-of-fair-launch-governance-and-value/) by Daryl Lau
 
 ## User Experience and User Research
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1) by Gossamer
@@ -31,12 +34,15 @@ A curated list of decentralized finance (DeFi) product management resources
 5. [State of Adoption](https://www.stateofcrypto.report/) by IDEO CoLab Ventures, Decentral Park Capital, and other contributors.
 6. [DeFi Usage Numbers](https://thecontrol.co/defi-usage-numbers-7e5e2cd5ab2e) by Richard Chen
 7. [2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi) by Binance
+8. [CoinGecko Yield Farming Survey 2020](https://www.coingecko.com/buzz/yield-farming-survey-2020)
+9. [2020 Global DeFi User Survey Report](https://medium.com/@arpa/2020-global-defi-user-survey-report-2c08cc59c192) by ARPA
 
 ## Growth
 1. [Lean DeFi - Planting Seeds for Organic Growth](https://www.youtube.com/watch?v=eNZitmMoOQw) by Stani Kulechov
 2. [Trader Insights: Yield Farming](https://integral.dydx.exchange/yield-farming/) by dYdX Integral
 3. [Inside Yield Farming: A Beginner's Guide to the Latest Craze in DeFi](https://defiprime.com/defi-yield-farming) by William M. Peaster at Defiprime
 4. [What is Yield Farming?](https://blog.zerion.io/what-is-yield-farming-d28bbdd2c724) by Cooper Turley at Zerion blog
+5. [COMP Growth Hacking DeFi](https://bankless.substack.com/p/-comp-growth-hacking-defi) by Ryan Sean Adams
 
 ## Analytics and Metrics
 1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
@@ -55,14 +61,14 @@ A curated list of decentralized finance (DeFi) product management resources
 Trent McConaghy
 6. [On Value Capture at Layers 1 and 2](https://multicoin.capital/2019/03/14/on-value-capture-at-layers-1-and-2/) by Kyle Samani
 7. [Diving into network lifecycle investing and more](https://blog.coinfund.io/diving-into-network-lifecycle-investing-and-more-bd44a1a94e1aP) by Jake Brukhman
+8. [Stop Burning Tokens – Buyback And Make Instead](https://www.placeholder.vc/blog/2020/9/17/stop-burning-tokens-buyback-and-make-instead) by Joel Monegro
+9. [YFI: Frameworks for Fundamental Valuation](https://www.mechanism.capital/yfi-frameworks-for-fundamental-valuation/) by Andrew Kang, Benjamin Simon, Daryl Lau
+10. [A framework for token value flows](https://bankless.substack.com/p/a-framework-for-token-value-flows) by Jon Itzler
+11. [The rise of the Fair Launch](https://jammsession.substack.com/p/the-rise-of-the-fair-launch) by Brian Flynn
+12. [Fair Launches Will Disrupt Crypto VC](https://synthesis.substack.com/p/fair-launches-will-disrupt-crypto) by Ian Lee
 
 ## Courses
 1. [Crypto startup school](https://a16z.com/crypto-startup-school/) is the-first blockchain startup school that learns you how to build crypto companies (like YC startup school, but for crypto)
-
-## A list of DeFi project lists for you to get inspired
-1. [DeFi Prime](https://defiprime.com/#defi_projects)
-2. [DeFi Pulse](https://defipulse.com/defi-list)
-3. [Everest](https://everest.link/category/0x95ea932f8950f11893e7ad77cc43a5c5e05296f2)
 
 ## What to do if I have an idea, but no money and connections with VCs
 Following the [Lean Startup](http://theleanstartup.com/principles) methodology, you don't have to have money to validate your hypothesis, but even though to build an MVP it wouldn't be superfluous to have some intital capital.
