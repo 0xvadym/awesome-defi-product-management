@@ -25,6 +25,8 @@ A curated list of decentralized finance (DeFi) product management resources
 6. [Fork Defense Strategies in DeFi](https://bankless.substack.com/p/fork-defense-strategies-in-defi) by Ian Lee
 7. [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e) by Trent McConaghy
 8. [YFI A Tale of Fair Launch, Governance and Value](https://insights.deribit.com/market-research/yfi-a-tale-of-fair-launch-governance-and-value/) by Daryl Lau
+9. [Request for Crypto Startups](https://medium.com/dragonfly-research/request-for-crypto-startups-ea6a520cac48) by Tom Schmidt
+10. [The Ownership Economy: Crypto & The Next Frontier of Consumer Software](https://variant.fund/the-ownership-economy-crypto-and-consumer-software/)
 
 ## User Experience and User Research
 1. [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1) by Gossamer
@@ -50,6 +52,7 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
 5. [DeFi Market Cap](https://defimarketcap.io/) 
+6. [Nancen](Nansen.ai)
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
