@@ -127,26 +127,24 @@ New type of crowdfunding, community-driven VCs
 ## Top Crypto Product Persons
 - Jess Walden - 
 - Tom Schmidt 
-Linda Xie
-Stani 
-Jake
-Evgeny
-Itamar
-guy from zapper
-rlesh
-[Kristen Stone](https://twitter.com/keighstone) - formerly crypto product manager at Coinbase
-Nick
-[Alex Salnikov](https://twitter.com/insider0x) - Product Manager & Co-founder at Rarible 
-[Ashleigh Schap](https://twitter.com/ashleighschap) - Growth Lead at Uniswap
-[Su Zhu](https://twitter.com/zhusu) - CEO/CIO of Three Arrows Capital
-[Evgeny Yurtaev](https://twitter.com/evgeth_) CEO of Zerion
-[Brian Flynn](https://twitter.com/Flynnjamm- Co-founder of Rabbit Hole, prev product at Dapper Labs
-[Chris Remus](https://twitter.com/cjremus) - Founder of Chainflow
-[Felix Feng](https://twitter.com/felix2feng) - Co-Founder and CEO Set Protocol
-[Alexis Gauba](https://twitter.com/AlexisGauba) - Co-founder of Opyn
-[Itamar Lesuisse](https://twitter.com/itamarl) - Co-founder of Argent
-[Will Warren](https://twitter.com/willwarren89) - Co-founder of 0x; Matcha
-[Antonio Juliano](https://twitter.com/AntonioMJuliano) - Founder of dYdX
+- Linda Xie
+- Stani 
+- Jake
+- 
+- rlesh
+- [Kristen Stone](https://twitter.com/keighstone) - formerly crypto product manager at Coinbase
+- Nick
+- [Alex Salnikov](https://twitter.com/insider0x) - Product Manager & Co-founder at Rarible 
+- [Ashleigh Schap](https://twitter.com/ashleighschap) - Growth Lead at Uniswap
+- [Su Zhu](https://twitter.com/zhusu) - CEO/CIO of Three Arrows Capital
+- [Evgeny Yurtaev](https://twitter.com/evgeth_) CEO of Zerion
+- [Brian Flynn](https://twitter.com/Flynnjamm- Co-founder of Rabbit Hole, prev product at Dapper Labs
+- [Chris Remus](https://twitter.com/cjremus) - Founder of Chainflow
+- [Felix Feng](https://twitter.com/felix2feng) - Co-Founder and CEO Set Protocol
+- [Alexis Gauba](https://twitter.com/AlexisGauba) - Co-founder of Opyn
+- [Itamar Lesuisse](https://twitter.com/itamarl) - Co-founder of Argent
+- [Will Warren](https://twitter.com/willwarren89) - Co-founder of 0x; Matcha
+- [Antonio Juliano](https://twitter.com/AntonioMJuliano) - Founder of dYdX
 
 
 ## Contribute
