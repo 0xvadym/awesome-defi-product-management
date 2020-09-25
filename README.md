@@ -125,15 +125,18 @@ New type of crowdfunding, community-driven VCs
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity)
 
 ## Top Crypto Product Persons
-- Jess Walden - 
-- Tom Schmidt 
-- Linda Xie
-- Stani 
-- Jake
-- 
-- rlesh
-- [Kristen Stone](https://twitter.com/keighstone) - formerly crypto product manager at Coinbase
-- Nick
+- [Jess Walden](https://twitter.com/jessewldn) - Founder of Variant Fund, previously a16z, Spotify, founder of Mediachain
+- [Tom Schmidt](https://twitter.com/tomhschmidt) - Partner at Dragonfly Capital 
+- [Linda Xie](https://twitter.com/ljxie) - Co-founder of Scalar Capital, Previously Product Manager at Coinbase
+- [Brian Armstrong](https://twitter.com/brian_armstrong) - Co-founder & CEO at Coinbase
+- [Hayden Adams](https://twitter.com/haydenzadams) - Inventor of the Uniswap Protocol
+- [Stani Kulechov](https://twitter.com/StaniKulechov) - Founder and CEO of Aave
+- [Jake Brukhman](https://twitter.com/jbrukh) - Founder of CoinFund
+- [Rika Sukenik](https://twitter.com/RikaSukenik) - Product manager at Skale
+- [Robert Leshner](https://twitter.com/rleshner) - Founder of Compound
+- [Arjun Balaji](Arjun Balaji) - Investments @Paradigm
+- [Kristen Stone](https://twitter.com/keighstone) - Formerly crypto product manager at Coinbase
+- [Nick Sawinyh](https://twitter.com/sawinyh) - Marketing at Bzrx & maker at Defiprime
 - [Alex Salnikov](https://twitter.com/insider0x) - Product Manager & Co-founder at Rarible 
 - [Ashleigh Schap](https://twitter.com/ashleighschap) - Growth Lead at Uniswap
 - [Su Zhu](https://twitter.com/zhusu) - CEO/CIO of Three Arrows Capital
@@ -145,6 +148,14 @@ New type of crowdfunding, community-driven VCs
 - [Itamar Lesuisse](https://twitter.com/itamarl) - Co-founder of Argent
 - [Will Warren](https://twitter.com/willwarren89) - Co-founder of 0x; Matcha
 - [Antonio Juliano](https://twitter.com/AntonioMJuliano) - Founder of dYdX
+- [Anton Bukov](https://twitter.com/k06a) - Co-Founder of 1inch
+- [Richard Chen](https://twitter.com/richardchen39) - Partner at 1confirmation
+- [Kain Warwick](https://twitter.com/kaiynne) - Founder of Synthetix 
+- [peter 'pet3rpan'](https://twitter.com/pet3rpan_) - Co-founder & blood mage @MetaCartel Ventures
+- [Nodar](https://twitter.com/NodarJ) - Co-founder of Zapper
+- [Kyle Samani](https://twitter.com/KyleSamani) - Managing Partnet at Multicoin Capital
+- [Chris Burniske](https://twitter.com/cburniske) - Partner at Placeholder
+
 
 
 ## Contribute
