@@ -125,8 +125,8 @@ New type of crowdfunding, community-driven VCs
 3. [Blockchain PM Community](https://t.me/BlockchainPMCommunity)
 
 ## Top Crypto Product Persons
-Jess Walden - 
-Tom Schmidt 
+- Jess Walden - 
+- Tom Schmidt 
 Linda Xie
 Stani 
 Jake
