@@ -141,7 +141,7 @@ New type of crowdfunding, community-driven VCs
 - [Ashleigh Schap](https://twitter.com/ashleighschap) - Growth Lead at Uniswap
 - [Su Zhu](https://twitter.com/zhusu) - CEO/CIO of Three Arrows Capital
 - [Evgeny Yurtaev](https://twitter.com/evgeth_) CEO of Zerion
-- [Brian Flynn](https://twitter.com/Flynnjamm- Co-founder of Rabbit Hole, prev product at Dapper Labs
+- [Brian Flynn](https://twitter.com/Flynnjamm)- Co-founder of Rabbit Hole, prev product at Dapper Labs
 - [Chris Remus](https://twitter.com/cjremus) - Founder of Chainflow
 - [Felix Feng](https://twitter.com/felix2feng) - Co-Founder and CEO Set Protocol
 - [Alexis Gauba](https://twitter.com/AlexisGauba) - Co-founder of Opyn
@@ -155,7 +155,6 @@ New type of crowdfunding, community-driven VCs
 - [Nodar](https://twitter.com/NodarJ) - Co-founder of Zapper
 - [Kyle Samani](https://twitter.com/KyleSamani) - Managing Partnet at Multicoin Capital
 - [Chris Burniske](https://twitter.com/cburniske) - Partner at Placeholder
-
 
 
 ## Contribute
