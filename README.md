@@ -53,7 +53,7 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
 5. [DeFi Market Cap](https://defimarketcap.io/) 
-6. [Nancen](Nansen.ai)
+6. [Nansen](Nansen.ai)
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
