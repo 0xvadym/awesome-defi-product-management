@@ -45,6 +45,7 @@ A curated list of decentralized finance (DeFi) product management resources
 3. [Inside Yield Farming: A Beginner's Guide to the Latest Craze in DeFi](https://defiprime.com/defi-yield-farming) by William M. Peaster at Defiprime
 4. [What is Yield Farming?](https://blog.zerion.io/what-is-yield-farming-d28bbdd2c724) by Cooper Turley at Zerion blog
 5. [COMP Growth Hacking DeFi](https://bankless.substack.com/p/-comp-growth-hacking-defi) by Ryan Sean Adams
+6. [Organic Growth in DeFi](https://medium.com/@vadymnesterenko/organic-growth-in-defi-19f4d71c0c9f) by Vadym Nesterenko
 
 ## Analytics and Metrics
 1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
