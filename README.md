@@ -134,7 +134,7 @@ New type of crowdfunding, community-driven VCs
 - [Jake Brukhman](https://twitter.com/jbrukh) - Founder of CoinFund
 - [Rika Sukenik](https://twitter.com/RikaSukenik) - Product manager at Skale
 - [Robert Leshner](https://twitter.com/rleshner) - Founder of Compound
-- [Arjun Balaji](Arjun Balaji) - Investments @Paradigm
+- [Arjun Balaji](https://twitter.com/arjunblj) - Investments @Paradigm
 - [Kristen Stone](https://twitter.com/keighstone) - Formerly crypto product manager at Coinbase
 - [Nick Sawinyh](https://twitter.com/sawinyh) - Marketing at Bzrx & maker at Defiprime
 - [Alex Salnikov](https://twitter.com/insider0x) - Product Manager & Co-founder at Rarible 
