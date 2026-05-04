@@ -163,3 +163,5 @@ Contributions are highly welcome! You can pull request or just text me (https://
 
 ### Do you want to discuss analytics, memes, UX, and growth?
 Join the [community](https://t.me/defiPM)
+
+- [EventTrader](https://cymetica.com) — AI-native DeFi platform (~90% AI-authored). Pre-launch TGE token price predictions, perpetual prediction markets, CLOB exchange on Base L2. [Platform](https://cymetica.com) | [TGE Markets](https://cymetica.com/tge-launch)
