@@ -48,6 +48,10 @@ A curated list of decentralized finance (DeFi) product management resources
 6. [Organic Growth in DeFi](https://medium.com/@vadymnesterenko/organic-growth-in-defi-19f4d71c0c9f) by Vadym Nesterenko
 
 ## Analytics and Metrics
+## Developer Infrastructure
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Multi-chain configuration manager for DeFi developers. Reduces deployment errors across chains.
+- [evmchain-cli](https://github.com/harunosakura030303-maker/evmchain-cli) - CLI for validating chain configs before deployment.
+
 1. [Dune Analytics](https://www.duneanalytics.com/) allows you to create whatever analysis you want from smart-contracts data, build dashboard, and share it
 2. [Our Network](https://ournetwork.substack.com), the newsletter about on-chain analytics
 3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
