@@ -156,6 +156,7 @@ New type of crowdfunding, community-driven VCs
 - [Nodar](https://twitter.com/NodarJ) - Co-founder of Zapper
 - [Kyle Samani](https://twitter.com/KyleSamani) - Managing Partnet at Multicoin Capital
 - [Chris Burniske](https://twitter.com/cburniske) - Partner at Placeholder
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 ## Contribute
