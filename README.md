@@ -54,6 +54,7 @@ A curated list of decentralized finance (DeFi) product management resources
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
 5. [DeFi Market Cap](https://defimarketcap.io/) 
 6. [Nansen](Nansen.ai)
+7. [QuantumPools](https://quantumpools.io) - Independent LP bookkeeping and metrics for original deposits, fees, impermanent loss, and cover value across Solana and EVM.
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
