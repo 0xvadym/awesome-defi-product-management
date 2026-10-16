@@ -163,3 +163,5 @@ Contributions are highly welcome! You can pull request or just text me (https://
 
 ### Do you want to discuss analytics, memes, UX, and growth?
 Join the [community](https://t.me/defiPM)
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow MCP / Skill](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure skill and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources and 0%-fee Morpho Blue flash-loan execution.
