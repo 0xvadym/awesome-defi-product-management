@@ -117,6 +117,7 @@ New type of crowdfunding, community-driven VCs
 - Project specific grants: [MakerDAO](https://community-development.makerdao.com/grants), [Aragon](https://github.com/aragon/nest), [Aave](https://medium.com/aave/aave-ecosystem-grants-88260ede1485)
 
 ## Getting a job
+1. [CryptoJobsHub](https://www.cryptojobshub.io/) curated remote cryptocurrency, DeFi, and Web3 jobs.
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
 2. [Crypto PM jobs newsletter](https://blockchainpm.substack.com/) is an awesome newsletter that lists all product jobs in blockchain market
 
