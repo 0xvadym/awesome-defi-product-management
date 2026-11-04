@@ -156,6 +156,7 @@ New type of crowdfunding, community-driven VCs
 - [Nodar](https://twitter.com/NodarJ) - Co-founder of Zapper
 - [Kyle Samani](https://twitter.com/KyleSamani) - Managing Partnet at Multicoin Capital
 - [Chris Burniske](https://twitter.com/cburniske) - Partner at Placeholder
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
 
 
 ## Contribute
